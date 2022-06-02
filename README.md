@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
+
 <!--
 **DEVIt-Jay-You/DEVIt-Jay-You** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
