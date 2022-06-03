@@ -4,11 +4,11 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logoColor=000000&logo=javascript&labelColor=%23F7DF1C)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
-![React](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&logo=redux)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-222222?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=redux)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
