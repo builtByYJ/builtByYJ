@@ -10,6 +10,9 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-F05032?style=flat-square&logo=git&logoColor=white)
+![Node](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node&logoColor=white)
+
+
 
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
