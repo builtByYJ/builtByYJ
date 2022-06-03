@@ -8,7 +8,7 @@
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
 ![React](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&logo=redux)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
-![Heroku](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
 
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
