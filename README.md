@@ -5,12 +5,12 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logoColor=000000&logo=javascript&labelColor=%23F7DF1C)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-222222?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-ReactJS-222222?style=flat-square&logo=react)
 ![React](https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=redux)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-F05032?style=flat-square&logo=git&logoColor=white)
-![Node](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Nodejs&logoColor=white)
+![Node](https://img.shields.io/badge/-NodeJs-43853d?style=flat-square&logo=nodejs&logoColor=white)
 
 
 
