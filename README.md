@@ -6,12 +6,26 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/-Redux-222222?style=for-the-badge&logo=redux)
+
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 ![Node](https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-46a2f1?style=for-the-badge&logo=redux&logoColor=ffffff)
+
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
+
+
+
+
+
+
+
+
+
 <!--
 **DEVIt-Jay-You/DEVIt-Jay-You** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
