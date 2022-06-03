@@ -6,7 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
-![React](https://img.shields.io/badge/-Redux-222222?style=for-the-badge&logo=redux)
+![React](https://img.shields.io/badge/-Redux-764abc?style=for-the-badge&logo=redux)
 
 <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
 <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
