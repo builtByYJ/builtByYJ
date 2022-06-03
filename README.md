@@ -11,7 +11,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express.Js-3C873A?style=flat-square&logo=null&logoColor=white)
 ![Node](https://img.shields.io/badge/-Node.Js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 
 
 
