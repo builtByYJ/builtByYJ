@@ -4,7 +4,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000) 
-<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) -->
 ![React](https://img.shields.io/badge/-ReactJS-222222?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=redux)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
@@ -15,7 +14,7 @@
 
 
 
-
+<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) -->
 
 <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a> -->
 
