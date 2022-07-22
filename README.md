@@ -1,6 +1,17 @@
-### Hi there 👋
+### Hi 👋 My name is YJ You
 
+Aspiring Software Developer
+---------------------------
 
+Aspiring Software Developer who recently grudated from Dev Academy Bootcamp. Also, self-taught coding through online courses.
+Highly motivated in learning new technologies and love turning visuals into working prototypes.
+
+* 🌍  I'm based in Auckland (New Zealand)
+* 🖥️  See my portfolio at [DEV-YJY]
+* ✉️  You can contact me at [yyou017@gmail.com](mailto:yyou017@gmail.com)
+* ⚡  A passionate reader and sports lover
+
+### Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000) 
