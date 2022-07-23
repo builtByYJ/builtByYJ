@@ -35,7 +35,7 @@ Highly motivated in learning new technologies and love turning visuals into work
 ![Scrimba](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)
 ![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE)
 
-[Certificates](https://github.com/DEV-YJY/Online-courses-certificates)
+#### [Certificates](https://github.com/DEV-YJY/Online-courses-certificates)
 --------------------------------------------------------------------------
  
 
