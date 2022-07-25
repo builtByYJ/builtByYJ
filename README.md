@@ -9,7 +9,7 @@ Highly motivated in learning new technologies and love turning visuals into work
 * 🌍  I'm based in Auckland (New Zealand)
 * 🖥️  See my portfolio at [DEV-YJY](https://github.com/DEV-YJY?tab=repositories)
 * ✉️  You can contact me at [yyou017@gmail.com](mailto:yyou017@gmail.com)
-* ⚡  A passionate reader and sports lover
+* ⚡  A passionate reader and sports enthusiasts
 
 ### Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=flat-square&logo=html5&logoColor=ffffff)
