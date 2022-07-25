@@ -3,7 +3,7 @@
 Aspiring Software Developer
 ---------------------------
 
-Aspiring Software Developer who recently grudated from Dev Academy Bootcamp. Also, self-taught coding through online courses.
+Aspiring Software Developer who recently grudated from [Dev Academy Bootcamp](https://devacademy.co.nz/). Also, self-taught coding through online courses.
 Highly motivated in learning new technologies and love turning visuals into working prototypes.
 
 * 🌍  I'm based in Auckland (New Zealand)
