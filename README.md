@@ -1,9 +1,9 @@
 ### Hi 👋 My name is YJ You
 
-Aspiring Software Developer
+Software Developer
 ---------------------------
 
-Aspiring Software Developer who recently grudated from [Dev Academy Bootcamp](https://devacademy.co.nz/). Also, self-taught coding through online courses.
+A Software Developer who recently grudated from [Dev Academy Bootcamp](https://devacademy.co.nz/). Also, self-taught coding through online courses.
 Highly motivated in learning new technologies and love turning visuals into working prototypes.
 
 * 🌍  I'm based in Auckland (New Zealand)
