@@ -7,7 +7,6 @@ A Software Developer who recently grudated from [Dev Academy Bootcamp](https://d
 Highly motivated in learning new technologies and love turning visuals into working prototypes.
 
 * 🌍  I'm based in Auckland (New Zealand)
-* 🖥️  See my portfolio at [DEV-YJY](https://github.com/DEV-YJY?tab=repositories)
 * ✉️  You can contact me at [yyou017@gmail.com](mailto:yyou017@gmail.com)
 * ⚡  A passionate reader and sports enthusiast
 
