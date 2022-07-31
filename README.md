@@ -3,7 +3,7 @@
 Software Developer
 ---------------------------
 
-A Software Developer who self-taught coding through online courses and recently grudated from [Dev Academy Bootcamp](https://devacademy.co.nz/). Actively learning new technologies in free time.
+A Software Developer who self-taught coding through online courses and recently graduated from [Dev Academy Bootcamp](https://devacademy.co.nz/). Actively learning new technologies in free time.
 Highly motivated in learning new technologies and love turning visuals into working prototypes.
 
 * 🌍  I'm based in Auckland (New Zealand)
