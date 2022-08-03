@@ -18,7 +18,7 @@ Highly motivated in learning new technologies and love turning visuals into work
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-ReactJS-222222?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=redux)
-![NextJS](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Express](https://img.shields.io/badge/ExpressJS-3C873A?style=flat-square&logo=express&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
