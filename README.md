@@ -40,7 +40,7 @@ Highly motivated in learning new technologies and love turning visuals into work
 #### [Certificates](https://github.com/DEV-YJY/Online-courses-certificates/tree/main/Certificates)
 --------------------------------------------------------------------------
  
-
+	https://github-readme-stats.vercel.app/api/top-langs/?username={DEV-YJY}
 
 
 
