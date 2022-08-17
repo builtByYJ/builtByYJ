@@ -26,7 +26,7 @@ Highly motivated in learning new technologies and love turning visuals into work
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Node](https://img.shields.io/badge/-Node.Js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
-![GraphQL]https://img.shields.io/badge/GraphQl-E10098?style=falt-square&logo=graphql&logoColor=white
+![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=falt-square&logo=graphql&logoColor=white)
 ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 
