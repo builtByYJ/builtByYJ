@@ -1,4 +1,4 @@
-### Hi 👋 My name is YJ You
+## Hi 👋 My name is YJ You
 
 Software Developer
 ---------------------------
