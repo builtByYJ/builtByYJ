@@ -7,7 +7,7 @@ A Software Developer who self-taught coding through online courses and recently 
 Highly motivated in learning new technologies and love turning visuals into working prototypes.
 
 * 🌍  I'm based in Auckland (New Zealand)
-* ✉️  You can contact me at [yyou017@gmail.com](mailto:yyou017@gmail.com)
+* 📫  You can contact me at [yyou017@gmail.com](mailto:yyou017@gmail.com)
 * ⚡  A passionate reader and sports enthusiast
 
 ### Skills
