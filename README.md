@@ -5,9 +5,11 @@
 A Software Developer who is trying to learn all the existing technologies on this planet.
 I love turning visuals into working prototypes.
 
+<p align='center'>
 * 🌍  Based in Auckland (New Zealand)
 * 📫  You can contact me at [yyou017@gmail.com](mailto:yyou017@gmail.com)
 * ⚡  A passionate reader and sports enthusiast
+</p>
 
 ### Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=flat-square&logo=html5&logoColor=ffffff)
