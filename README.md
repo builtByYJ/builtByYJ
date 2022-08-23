@@ -1,18 +1,18 @@
 <!-- ## <p align='center'><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> Hi I am YJ </p> -->
-<img align='center' src="https://capsule-render.vercel.app/api?type=waving&color=#8A2BE2&height=250&section=header&text=Welcome%To&fontSize=90&animation=fadeIn&fontAlignY=38&desc=YJ's%20GitHub%20Profile&descAlignY=51&descAlign=62" />
 
-
+<img align='center' src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFDFA,100:946CEE&height=250&section=header&text=Welcome%To&fontSize=90&animation=fadeIn&fontAlignY=38&desc=YJ's%20GitHub%20Profile%👋&descAlignY=52&descAlign=62&fontColor=FFFDFA" />
 
 
 <p align='center'>
-A Software Developer who is trying to learn all the existing technologies on this planet. </br>
-I love turning visuals into working prototypes.
+ A Software Developer who is trying to learn all the existing technologies on this planet. </br>
+ I love turning visuals into working prototypes.
 </p>
 
 
 * 🌍  Based in Auckland (New Zealand)
-* 📫  You can contact me at [yyou017@gmail.com](mailto:yyou017@gmail.com) 
-* ⚡  A passionate reader and sports enthusiast
+* * ⚡  A passionate reader and sports enthusiast
+* 📫  You can contact me at [yyou017@gmail.com](mailto:yyou017@gmail.com)
+
 
 
 
