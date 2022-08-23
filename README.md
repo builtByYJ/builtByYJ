@@ -1,7 +1,6 @@
 ## Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> YJ Here 
 
-Software Developer
----------------------------
+
 
 A Software Developer who is trying to learn all the existing technologies on this planet.
 Highly motivated in learning new technologies and love turning visuals into working prototypes.
@@ -34,7 +33,7 @@ Highly motivated in learning new technologies and love turning visuals into work
 #### [Certificates](https://github.com/DEV-YJY/Online-courses-certificates/tree/main/Certificates)
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-YJY&layout=compact">
----------------------------
+
 <!-- ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
 ![Freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
 ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=65FF8F)
@@ -47,7 +46,7 @@ Highly motivated in learning new technologies and love turning visuals into work
  
 
 
-
+---------------------------------------------------
 
 
 
