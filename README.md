@@ -9,10 +9,13 @@
 <h4>
 </br>
 
+<li align="center">
+ <ul>🌍  Based in Auckland (New Zealand)</ul>
+ <ul>⚡  A passionate reader and sports enthusiast</ul>
+ <ul>📫  You can contact me at<a href="yyou017@gmail.com">email</a></ul>
+  
+ </li>
 
-* 🌍  Based in Auckland (New Zealand)
-* ⚡  A passionate reader and sports enthusiast
-* 📫  You can contact me at [yyou017@gmail.com](mailto:yyou017@gmail.com)
 </br>
 
 
