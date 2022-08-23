@@ -7,7 +7,7 @@
  A Software Developer who is trying to learn all the existing technologies on this planet. </br>
  I love turning visuals into working prototypes.
 <h4>
-</br>
+
 
 <li align="center">
  <ul>🌍  Based in Auckland (New Zealand)</ul>
