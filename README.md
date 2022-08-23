@@ -9,11 +9,12 @@
 <h4>
 
 
-<li align="center">
- <ul>🌍  Based in Auckland (New Zealand)</ul>
- <ul>⚡  A passionate reader and sports enthusiast</ul>
- <ul>📫  You can contact me at <a href="mailto:yyou017@gmail.com">yyou017@gmail.com</a></ul>
-</li>
+
+<p align="center">
+ 🌍  Based in Auckland (New Zealand) </br>
+⚡  A passionate reader and sports enthusiast </br>
+📫  You can contact me at <a href="mailto:yyou017@gmail.com">yyou017@gmail.com</a>
+</p>
 
 </br>
 
@@ -45,7 +46,7 @@
 </p>
 
 <p align="center">
- <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-YJY&layout=compact">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-YJY&layout=compact">
 </p>
 <hr>
 
