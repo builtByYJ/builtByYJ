@@ -1,5 +1,5 @@
 <!-- ## <p align='center'><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> Hi I am YJ </p> -->
-<img align='center' src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%To&fontSize=90&animation=fadeIn&fontAlignY=38&desc=YJ's%20GitHub%20Profile&descAlignY=51&descAlign=62" />
+<img align='center' src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome%To&fontSize=90&animation=fadeIn&fontAlignY=38&desc=YJ's%20GitHub%20Profile&descAlignY=51&descAlign=62" />
 
 
 
