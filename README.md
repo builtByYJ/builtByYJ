@@ -5,7 +5,8 @@
 
 <h3 align='center'>
  A Software Developer who is trying to learn all the existing technologies on this planet. </br>
- I love turning visuals into working prototypes.
+ Always strive to be awesome. </br>
+ Love turning visuals into working prototypes.
 <h3>
 
 
