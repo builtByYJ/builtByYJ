@@ -35,20 +35,20 @@
 </p>
 </br>
 
-
 <h3 align="center">
  Online Course Certificates
 </h3>
-
 <p align="center">
  <a href="https://github.com/DEV-YJY/Online-courses-certificates/tree/main/Certificates">Certificates</a>
 </p>
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-YJY&layout=compact">
-
+<p align="center">
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-YJY&layout=compact">
+</p>
 <hr>
 
-<h3>Where to find me</h3>
-<!-- <p><a href="https://github.com/DEVIt-Jay-You" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> -->
+<h3 align="center">Where to find me</h3>
+
+
  <a href="https://www.linkedin.com/in/yjyou/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
