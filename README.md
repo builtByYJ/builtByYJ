@@ -12,7 +12,7 @@
 <li align="center">
  <ul>🌍  Based in Auckland (New Zealand)</ul>
  <ul>⚡  A passionate reader and sports enthusiast</ul>
- <ul>📫  You can contact me at<a href="yyou017@gmail.com">email</a></ul>
+ <ul>📫  You can contact me at <a href="mailto:yyou017@gmail.com">email</a></ul>
   
  </li>
 
