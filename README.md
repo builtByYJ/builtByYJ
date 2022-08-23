@@ -42,7 +42,6 @@
 
 <p align="center">
  <a href="https://github.com/DEV-YJY/Online-courses-certificates/tree/main/Certificates">Certificates</a>
- [Certificates](https://github.com/DEV-YJY/Online-courses-certificates/tree/main/Certificates)
 </p>
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-YJY&layout=compact">
