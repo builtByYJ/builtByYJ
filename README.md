@@ -7,12 +7,16 @@ I love turning visuals into working prototypes.
 </p>
 
 <p align='center'>
-* 🌍  Based in Auckland (New Zealand) </br>
+* 🌍  Based in Auckland (New Zealand)
+</p>
+<p align='center'>
 * 📫  You can contact me at [yyou017@gmail.com](mailto:yyou017@gmail.com) 
-* ⚡  A passionate reader and sports enthusiast
+</p>
+<p align='center'>
+ * ⚡  A passionate reader and sports enthusiast
 </p>
 
-<p align='center'>
+
 ### Skills
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=css3)
@@ -32,7 +36,7 @@ I love turning visuals into working prototypes.
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=falt-square&logo=graphql&logoColor=white)
 ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
- </p>
+
 
 ### Online Course Certificates
 #### [Certificates](https://github.com/DEV-YJY/Online-courses-certificates/tree/main/Certificates)
