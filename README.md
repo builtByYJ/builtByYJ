@@ -32,6 +32,8 @@ Highly motivated in learning new technologies and love turning visuals into work
 
 ### Online Course Certificates
 #### [Certificates](https://github.com/DEV-YJY/Online-courses-certificates/tree/main/Certificates)
+
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-YJY&layout=compact">
 --------------------------------------------------------------------------
 <!-- ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=303347)
 ![Freecodecamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)
