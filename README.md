@@ -1,13 +1,14 @@
 ## <p align='center'><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px" height="28px"> Hi I am YJ </p>
 
 
-
-A Software Developer who is trying to learn all the existing technologies on this planet.
+<p align='center'>
+A Software Developer who is trying to learn all the existing technologies on this planet. </br>
 I love turning visuals into working prototypes.
+</p>
 
 <p align='center'>
-* 🌍  Based in Auckland (New Zealand)
-* 📫  You can contact me at [yyou017@gmail.com](mailto:yyou017@gmail.com)
+* 🌍  Based in Auckland (New Zealand) </br>
+* 📫  You can contact me at [yyou017@gmail.com](mailto:yyou017@gmail.com) </br>
 * ⚡  A passionate reader and sports enthusiast
 </p>
 
