@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=redux" />
   <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/ExpressJS-3C873A?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Node.Js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NodeJs-339933?style=flat-square&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=falt-square&logo=graphql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
