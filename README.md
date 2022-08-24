@@ -40,11 +40,9 @@
 </br>
 
 <h3 align="center">
- Online Course Certificates
+ Online Course <a href="https://github.com/DEV-YJY/Online-courses-certificates/tree/main/Certificates">Certificates</a>
 </h3>
-<p align="center">
- <a href="https://github.com/DEV-YJY/Online-courses-certificates/tree/main/Certificates">Certificates</a>
-</p>
+
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-YJY&layout=compact">
