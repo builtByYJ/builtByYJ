@@ -39,9 +39,9 @@
 </p>
 </br>
 
-<h2 align="center">
+<h3 align="center">
  Online Course Certificates
-</h2>
+</h3>
 <p align="center">
  <a href="https://github.com/DEV-YJY/Online-courses-certificates/tree/main/Certificates">Certificates</a>
 </p>
@@ -51,7 +51,7 @@
 </p>
 <hr>
 
-<h2 align="center">Where to find me</h2>
+<h3 align="center">Where to find me</h3>
 
 <p align="center">
  <a href="https://www.linkedin.com/in/yjyou/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
