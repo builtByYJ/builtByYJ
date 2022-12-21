@@ -1,9 +1,9 @@
 <img align='center' src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFDFA,100:946CEE&height=200&section=header&text=Welcome%20%To&fontSize=50&animation=fadeIn&fontAlignY=38&desc=YJ's%20GitHub%20Profile%👋&descAlignY=52&descAlign=62&fontColor=FFFDFA" />
 
 <h4 align='center'>
- A Software Developer who is trying to learn all the existing technologies on this planet. </br>
- Always strive to be awesome. </br>
- Love turning visuals into working prototypes.
+ A Software Developer who is driven by a desire to learn and explore ideas.. </br>
+ Love turning visuals into working prototypes.</br>
+ Always strive to be awesome.
 <h4>
 
 <p align="center">
