@@ -22,20 +22,9 @@
 </h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-CSS3-007ACC?style=flat-square&logo=css3" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" />
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ReactJS-222222?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/-Redux-764abc?style=flat-square&logo=redux" />
-  <img src="https://img.shields.io/badge/NextJS-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/ExpressJS-3C873A?style=flat-square&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NodeJs-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=falt-square&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,mysql,graphql,mongodb,nextjs,react,redux,css,tailwind,figma" />
 </p>
 </br>
-
 <h3 align="center">
  Online Course <a href="https://github.com/DEV-YJY/Online-courses-certificates/tree/main/Certificates">Certificates</a> 📜
 </h3>
