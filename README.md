@@ -1,4 +1,4 @@
-<img align='center' src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFDFA,100:946CEE&height=200&section=header&text=Welcome%20%To&fontSize=50&animation=fadeIn&fontAlignY=38&desc=YJ's%20GitHub%20Profile%👋&descAlignY=52&descAlign=62&fontColor=FFFDFA" />
+<img align='center' width='100%' src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFDFA,100:946CEE&height=200&section=header&text=Welcome%20%To&fontSize=50&animation=fadeIn&fontAlignY=38&desc=YJ's%20GitHub%20Profile%👋&descAlignY=52&descAlign=62&fontColor=FFFDFA" />
 
 <h4 align='center'>
  A Software Developer who is driven by a desire to learn and explore ideas. </br>
@@ -22,7 +22,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,mysql,graphql,mongodb,nextjs,react,redux,azure,css,tailwind,figma,git" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,mysql,graphql,mongodb,nextjs,react,redux,css,tailwind,figma" />
 </p>
 </br>
 <h3 align="center">
@@ -41,4 +41,4 @@
  <a href="https://www.linkedin.com/in/yjyou/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFDFA,100:946CEE&height=150&text=Stay%20Awesome%👍&fontSize=50&fontAlignY=68&fontColor=FFFDFA&section=footer" />
+<img width='100%' src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFDFA,100:946CEE&height=150&text=Stay%20Awesome%👍&fontSize=50&fontAlignY=68&fontColor=FFFDFA&section=footer" />
