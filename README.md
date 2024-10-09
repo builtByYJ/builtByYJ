@@ -9,7 +9,6 @@
 <p align="center">
  🌍  Based in Auckland (New Zealand) </br>
 ⚡  A passionate reader and sports enthusiast </br>
-📫  You can contact me at <a href="mailto:yyou017@gmail.com">yyou017@gmail.com</a>
 </p>
 <p align="center">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDEV-YJY&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false)"/>
