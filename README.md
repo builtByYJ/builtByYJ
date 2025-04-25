@@ -8,8 +8,9 @@
  🌍  Based in Auckland (New Zealand) </br>
 </p>
 <p align="center">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDEV-YJY&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false"/>
+  <img src="https://komarev.com/ghpvc/?username=DEV-YJY&color=blueviolet" alt="Profile views"/>
 </p>
+
 
 
 
@@ -21,9 +22,6 @@
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,mysql,graphql,mongodb,nextjs,react,redux,css,tailwind,figma" />
 </p>
 </br>
-<h3 align="center">
- Online Course <a href="https://github.com/DEV-YJY/Online-courses-certificates/tree/main/Certificates">Certificates</a> 📜
-</h3>
 
 
 <p align="center">
