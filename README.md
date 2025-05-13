@@ -8,7 +8,7 @@
  🌍  Based in Auckland (New Zealand) </br>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DEV-YJY&color=blueviolet" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=builtByYJ&color=blueviolet" alt="Profile views"/>
 </p>
 
 
@@ -25,7 +25,7 @@
 
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEV-YJY&theme=dracula&hide=html,css,handlebars,SHELL&layout=compact">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=builtByYJ&theme=dracula&hide=html,css,handlebars,SHELL&layout=compact">
 </p>
 <hr>
 
