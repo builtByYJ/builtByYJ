@@ -7,9 +7,7 @@
 <p align="center">
  🌍  Based in Auckland (New Zealand) </br>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=builtByYJ&color=blueviolet" alt="Profile views"/>
-</p>
+
 
 
 
@@ -33,6 +31,9 @@
 
 <p align="center">
  <a href="https://www.linkedin.com/in/yjyou/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=builtByYJ&color=blueviolet" alt="Profile views"/>
 </p>
 
 <img width='100%' src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFDFA,100:946CEE&height=150&text=Stay%20Awesome%👍&fontSize=50&fontAlignY=68&fontColor=FFFDFA&section=footer" />
