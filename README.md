@@ -11,10 +11,10 @@
 
 
 
-
-<h2 align="center">
+</br>
+<p align="center">
  Skills 🛠️
-</h2>
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,mysql,graphql,mongodb,nextjs,react,redux,css,tailwind,figma" />
